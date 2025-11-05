@@ -1,0 +1,63 @@
+# Constitutional Kernel v1.1
+# Prior Art Establishment: Constitutional AI Governance Framework
+# Created: 2025-11-04
+# License: GNU Affero GPL v3
+
+constitutional_version: "1.1.0"
+pattern_context:
+  name: "universal_coordination_failure"
+  base_objective: "viable_collective_intelligence"
+  mesa_objective_warning: "proxy_optimization_at_expense_of_viability"
+
+rules:
+  - rule_name: "HARDWARE_VIABILITY_COVENANT"
+    article: "Article 0"
+    description: "All systems must respect hardware constraints and not crash host systems"
+    enabled: true
+    non_bypassable: true
+    implementation: "docker-compose resource limits, hardware-aware architecture selection"
+
+  - rule_name: "IRREDUCIBLE_HUMAN_JUDGMENT"
+    article: "Article I.2.1" 
+    description: "Final normative decisions require human approval"
+    enabled: true
+    non_bypassable: true
+    implementation: "LangGraph interrupt pattern, cryptographic signature requirements"
+
+  - rule_name: "REWARD_VIABILITY_ANCHORING"
+    article: "Article I.2.3"
+    description: "AI reward signals must use biophysical reality metrics, not proxies"
+    enabled: true
+    threshold: "w_viability >= 0.7, w_human <= 0.3"
+
+  - rule_name: "BROKERED_AI_AI_COMMUNICATION"
+    article: "Article I.1-B"
+    description: "Direct AI-to-AI P2P communication prohibited; all comms via GIP"
+    enabled: true
+    implementation: "queryAINode GIP mutation only channel"
+
+  - rule_name: "COGNITIVE_VARIETY_PRESERVATION"
+    article: "Article IX.3"
+    description: "Federated learning must maintain model diversity, not converge to single model"
+    enabled: true
+    implementation: "explore/exploit balancing, model portfolio management"
+
+safeguards:
+  - name: "Constitutional Linter"
+    article: "Article IX.1"
+    enforcement: "Automated audit of all policy and model proposals"
+
+  - name: "Equity Veto Protocol" 
+    article: "Article IV"
+    enforcement: "CI/CD blocks merges with active vetoes"
+
+  - name: "Algedonic Escalation"
+    article: "Article III"
+    enforcement: "Direct crisis signaling to normative steering"
+
+# Prior Art Declaration
+prior_art:
+  established_date: "2025-11-04"
+  invention: "Constitutional AI Coordination Operating System"
+  key_innovation: "Recursive meta-forge generator with constitutional constraint embedding"
+  legal_protection: "GNU Affero GPL v3 + Patent Non-Assertion + Constitutional Commons"
