@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ForgeDomainSpecification_v1.0",
+  "prior_art_declaration": {
+    "invention": "Domain Specification Language for Coordination Problem Abstraction",
+    "established_date": "2025-11-04",
+    "purpose": "Machine-readable specification for generating domain-specific governance systems"
+  },
+  "pattern": {
+    "name": "compatibility_management",
+    "molochian_trap": "mod_conflict_arms_race",
+    "description": "Individually rational mod choices lead to collectively unstable game experience",
+    "confidence": 0.95
+  },
+  "context": {
+    "domain": "skyrim_modding_ecosystem",
+    "base_objective": "stable_personalized_mod_experience",
+    "mesa_objective": "maximize_visual_fidelity_at_expense_of_stability",
+    "specific_example": "Users install multiple texture mods that conflict, causing crashes"
+  },
+  "constraints": {
+    "technical_capacity": "basic",
+    "hardware": "variable_user_systems", 
+    "budget": "zero",
+    "risk_tolerance": "conservative"
+  },
+  "values": {
+    "stability": 5,
+    "personalization": 4,
+    "performance": 5,
+    "diversity": 4,
+    "explainability": 5
+  },
+  "customization_requests": {
+    "wants_ai_nodes": false,
+    "requires_hardware_awareness": true
+  },
+  "constitutional_requirements": [
+    "article_0_viability_covenant",
+    "article_ix_interpretability_design", 
+    "article_ix_cognitive_variety"
+  ],
+  "success_metrics": [
+    "mod_list_stability_rating >= 4.5",
+    "user_satisfaction >= 4.0",
+    "hardware_compatibility_violations = 0",
+    "explanation_quality >= 4.5"
+  ],
+  "validated_manual_process": "Expert mod list curation with compatibility testing"
+}
