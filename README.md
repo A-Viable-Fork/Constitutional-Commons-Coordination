@@ -12,7 +12,7 @@
 - **Corporate Protection Clause** - Prevents AI company capture
 
 ### 🏛️ Constitutional Framework
-This implements a recursive meta-architecture for generating domain-specific governance systems that remain constitutionally aligned.
+This implements a recursive meta-architecture for generating domain-specific coordination systems that remain constitutionally aligned.
 
 ### 🎯 First Application: Skyrim Mod Coordination
 Proving the framework with bounded domain:
@@ -26,4 +26,4 @@ Proving the framework with bounded domain:
 - `meta_forge_generator.py` - Working implementation
 
 ### 🛡️ Prior Art Declaration
-This repository establishes prior art for constitutional AI governance systems, recursive meta-forge generators, and hardware-aware AI coordination frameworks.
+This repository establishes prior art for constitutional AI coordination systems, recursive meta-forge generators, and hardware-aware AI coordination frameworks.
