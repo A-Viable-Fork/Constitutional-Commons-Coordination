@@ -1,4 +1,4 @@
-# Constitutional Commons Governance
+# Constitutional Commons Coordination
 
 ## Public Infrastructure for Aligned Collective Intelligence
 
